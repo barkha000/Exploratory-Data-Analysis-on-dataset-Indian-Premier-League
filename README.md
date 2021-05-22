@@ -17,5 +17,6 @@ Conclusion got from this EDA are as follows:
 12. The highest number of matches played by player name are SK Raina, RG Sharma.
 13. Dismissals in IPL was most by Catch out .
 14. The IPL most wicket taken blower is SL Malinga. 
-
+ 
+Tableau Public Link of Dashboard:  https://lnkd.in/gjnQjdp
 # Thank You!!
